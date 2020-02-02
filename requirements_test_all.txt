@@ -3,6 +3,9 @@
 
 -r requirements_test.txt
 
+# homeassistant.components.philips_airpurifier
+CoAPthon3==1.0.1
+
 # homeassistant.components.homekit
 HAP-python==2.7.0
 
@@ -418,6 +421,9 @@ pychromecast==4.1.1
 
 # homeassistant.components.coolmaster
 pycoolmasternet==0.0.4
+
+# homeassistant.components.philips_airpurifier
+pycryptodomex==3.9.4
 
 # homeassistant.components.daikin
 pydaikin==1.6.2

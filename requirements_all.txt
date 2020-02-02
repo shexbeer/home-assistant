@@ -33,6 +33,9 @@ Adafruit-SHT31==1.0.2
 # homeassistant.components.bbb_gpio
 # Adafruit_BBIO==1.1.1
 
+# homeassistant.components.philips_airpurifier
+CoAPthon3==1.0.1
+
 # homeassistant.components.homekit
 HAP-python==2.7.0
 
@@ -1174,6 +1177,9 @@ pycomfoconnect==0.3
 
 # homeassistant.components.coolmaster
 pycoolmasternet==0.0.4
+
+# homeassistant.components.philips_airpurifier
+pycryptodomex==3.9.4
 
 # homeassistant.components.microsoft
 pycsspeechtts==1.0.3
